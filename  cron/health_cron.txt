@@ -1,0 +1,1 @@
+*/5 * * * * /home/mariam/Bash/linux-bash-automation/scripts/health_check.sh
